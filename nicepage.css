@@ -39313,7 +39313,7 @@ a.u-link.u-text-hover-grey-90:hover {
 .u-header .u-image-1 {
   width: 57px;
   height: 57px;
-  margin: 47px auto 0 0;
+  margin: 47px auto 0 -28px;
 }
 
 .u-header .u-logo-image-1 {
@@ -39358,6 +39358,7 @@ a.u-link.u-text-hover-grey-90:hover {
 
   .u-header .u-image-1 {
     margin-top: 98px;
+    margin-left: -50px;
   }
 
   .u-header .u-logo-image-1 {
@@ -39380,6 +39381,7 @@ a.u-link.u-text-hover-grey-90:hover {
 
   .u-header .u-image-1 {
     margin-top: 96px;
+    margin-left: -50px;
   }
 
   .u-header .u-menu-1 {
